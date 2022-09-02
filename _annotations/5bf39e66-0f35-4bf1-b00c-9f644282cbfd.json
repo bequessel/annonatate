@@ -1,0 +1,35 @@
+---
+canvas: "http://e9a2ae6e-e3dd-41ca-9d31-ddba1520138d"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Lama holding gcod drum",
+            "purpose": "commenting",
+            "creator": {
+                "id": "bequessel",
+                "name": "bequessel"
+            },
+            "created": "2022-09-02T16:51:48.184Z",
+            "modified": "2022-09-02T16:51:57.176Z"
+        }
+    ],
+    "target": {
+        "source": "http://e9a2ae6e-e3dd-41ca-9d31-ddba1520138d",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=5609.14892578125,2222.231689453125,556.7421875,592.00244140625"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://bequessel.github.io/BurkhardQ/manifests/manifest3.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "5bf39e66-0f35-4bf1-b00c-9f644282cbfd.json",
+    "motivation": "commenting"
+}
