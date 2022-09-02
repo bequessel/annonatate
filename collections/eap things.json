@@ -1,0 +1,14 @@
+---
+---
+{
+    "label": "eap things",
+    "type": "storyboardlist",
+    "items": [
+        {
+            "board": "<iiif-annotation annotationurl='https://bequessel.github.io/annonatate/annotations/eap1130-1-1-1-7-list.json'></iiif-annotation>",
+            "title": "bela",
+            "description": "",
+            "thumbnail": ""
+        }
+    ]
+}
