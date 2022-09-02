@@ -1,0 +1,35 @@
+---
+canvas: "http://84baca7e-e455-402f-baa4-3fe2a7d92d7d"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Samantabhadra",
+            "purpose": "commenting",
+            "creator": {
+                "id": "bequessel",
+                "name": "bequessel"
+            },
+            "created": "2022-09-02T16:21:31.739Z",
+            "modified": "2022-09-02T16:21:35.035Z"
+        }
+    ],
+    "target": {
+        "source": "http://84baca7e-e455-402f-baa4-3fe2a7d92d7d",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=516.5747680664062,330.66461181640625,671.2208862304688,834.0277709960938"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://bequessel.github.io/BurkhardQ/manifests/manifest3.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "37e504ac-17c7-44a7-8a61-b93706e0f320.json",
+    "motivation": "commenting"
+}
