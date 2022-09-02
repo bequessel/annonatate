@@ -1,0 +1,35 @@
+---
+canvas: "http://84baca7e-e455-402f-baa4-3fe2a7d92d7d"
+order: 2
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Vajradhara",
+            "purpose": "commenting",
+            "creator": {
+                "id": "bequessel",
+                "name": "bequessel"
+            },
+            "created": "2022-09-02T16:50:19.959Z",
+            "modified": "2022-09-02T16:50:22.967Z"
+        }
+    ],
+    "target": {
+        "source": "http://84baca7e-e455-402f-baa4-3fe2a7d92d7d",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=5432.150390625,264.86669921875,800.01708984375,861.7264404296875"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://bequessel.github.io/BurkhardQ/manifests/manifest3.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "666acb21-28f0-42b0-b97a-b669cfb22c86.json",
+    "motivation": "commenting"
+}
