@@ -1,0 +1,35 @@
+---
+canvas: "https://eap.bl.uk/archive-file/EAP1130-1-1-1/canvas/7"
+order: 2
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Bela",
+            "purpose": "commenting",
+            "creator": {
+                "id": "bequessel",
+                "name": "bequessel"
+            },
+            "created": "2022-09-02T15:41:24.220Z",
+            "modified": "2022-09-02T15:41:25.178Z"
+        }
+    ],
+    "target": {
+        "source": "https://eap.bl.uk/archive-file/EAP1130-1-1-1/canvas/7",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1345.8963623046875,1102.971923828125,580.3406982421875,648.2528076171875"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://eap.bl.uk/archive-file/EAP1130-1-1-1/manifest?manifest=https%3A//eap.bl.uk/archive-file/EAP1130-1-1-1/manifest",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "7f44d113-a147-495f-a5c0-b410975553ac.json",
+    "motivation": "commenting"
+}
