@@ -1,0 +1,35 @@
+---
+canvas: "http://6e5718b9-b359-4bad-9e4a-8e4cbd9c9999"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "doodle showing 18th century style weapon",
+            "purpose": "commenting",
+            "creator": {
+                "id": "bequessel",
+                "name": "bequessel"
+            },
+            "created": "2022-09-02T16:52:11.544Z",
+            "modified": "2022-09-02T16:52:27.224Z"
+        }
+    ],
+    "target": {
+        "source": "http://6e5718b9-b359-4bad-9e4a-8e4cbd9c9999",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1657.3934326171875,2328.06201171875,2079.9957275390625,647.10986328125"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://bequessel.github.io/BurkhardQ/manifests/manifest3.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "bad11fb4-3e7e-4720-a927-790bc9a77deb.json",
+    "motivation": "commenting"
+}
