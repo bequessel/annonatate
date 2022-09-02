@@ -1,0 +1,31 @@
+---
+canvas: "https://iiif.universiteitleiden.nl/iiif/2/hdl%3A1887.1%2Fitem%3A3280562/full/pct:50/0/default.jpg"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "artist",
+            "purpose": "commenting",
+            "creator": {
+                "id": "bequessel",
+                "name": "bequessel"
+            },
+            "created": "2022-09-02T15:58:53.685Z",
+            "modified": "2022-09-02T15:58:54.788Z"
+        }
+    ],
+    "target": {
+        "source": "https://iiif.universiteitleiden.nl/iiif/2/hdl%3A1887.1%2Fitem%3A3280562/full/pct:50/0/default.jpg",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=747.7496948242188,477.9295349121094,333.69427490234375,270.3346252441406"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "904258bc-cb22-4c5b-8518-5ec9416b2345.json",
+    "motivation": "commenting"
+}
