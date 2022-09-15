@@ -9,6 +9,12 @@
             "title": "ill2",
             "description": "",
             "thumbnail": ""
+        },
+        {
+            "board": "<iiif-annotation annotationurl='https://bequessel.github.io/annonatate/annotations/0c425afb-4fea-41b7-bd76-a596557564f4.json'></iiif-annotation>",
+            "title": "ill2",
+            "description": "marpa",
+            "thumbnail": ""
         }
     ]
 }
