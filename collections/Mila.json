@@ -9,6 +9,12 @@
             "title": "f4r",
             "description": "",
             "thumbnail": ""
+        },
+        {
+            "board": "<iiif-storyboard annotationurl='https://bequessel.github.io/annonatate/annotations/3316f817-8f27-4d4f-8dcc-4691720b8db9-list.json'></iiif-storyboard>",
+            "title": "",
+            "description": "",
+            "thumbnail": ""
         }
     ]
 }
