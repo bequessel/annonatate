@@ -1,0 +1,35 @@
+---
+canvas: "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_57"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "ill f.26v",
+            "purpose": "commenting",
+            "creator": {
+                "id": "bequessel",
+                "name": "bequessel"
+            },
+            "created": "2022-09-22T18:38:45.119Z",
+            "modified": "2022-09-22T18:38:53.110Z"
+        }
+    ],
+    "target": {
+        "source": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_57",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=6772.4697265625,823.0374755859375,1036.3564453125,694.117919921875"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://bequessel.github.io/annonatate/manifests/BurkhardQ/main/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "6e66837b-31f4-4554-bf64-21c1bf59ee58.json",
+    "motivation": "commenting"
+}
