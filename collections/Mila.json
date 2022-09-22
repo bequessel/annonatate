@@ -1,0 +1,14 @@
+---
+---
+{
+    "label": "Mila",
+    "type": "storyboardlist",
+    "items": [
+        {
+            "board": "<iiif-storyboard annotationurl='https://bequessel.github.io/annonatate/annotations/f8645d32-e2b5-48a3-a46d-21c39e8ed829-canvas-11-list.json'></iiif-storyboard>",
+            "title": "f4r",
+            "description": "",
+            "thumbnail": ""
+        }
+    ]
+}
